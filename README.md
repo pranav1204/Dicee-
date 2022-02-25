@@ -10,6 +10,8 @@ Objactive
 By this i am exploring my skills which i learn from diff courses and reserching.
 i am also using this app as my cv for my job.
 
+https://user-images.githubusercontent.com/91304837/155716790-59bd73f1-ba7f-43ea-8ba4-ce436ff9483b.mp4
+
 What I learnt while making this mi_profile app
 One of the most important things is what I learned while making this app. See them below:
 
