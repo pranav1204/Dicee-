@@ -5,7 +5,7 @@ mi_profile App
 
 from last few days i am working on this amaizing called mi_profile this app is fully made by me only. iused so much custom widget, packages, linking and so many more flutter tools.
 
-Objactive
+Objective
 
 By this i am exploring my skills which i learn from diff courses and reserching.
 i am also using this app as my cv for my job.
